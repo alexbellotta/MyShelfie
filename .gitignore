@@ -1,0 +1,14 @@
+/target/
+/target/classes/
+/target/test-classes/
+*.class
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+/.idea/shelf/
+/.idea/
+/out/

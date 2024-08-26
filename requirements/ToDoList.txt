@@ -1,0 +1,20 @@
+Aggiornare javadoc
+it.polimi.ingsw.Controller: FATTO
+it.polimi.ingsw.Network: ServerMain fattp
+it.polimi.ingsw.DTO: FATTO
+MODEL: FATTO
+UTIL: FATTO
+VIEW: FATTO
+it.polimi.ingsw.MyShelfie: FATTO
+
+Requirements da implementare:
+[DONE]
+- Ogni giocatore è identificato da un nickname che viene impostato lato client. Tale nickname deve essere
+  univoco, nel senso che non possono esserci due utenti collegati contemporaneamente con lo stesso nickname.
+  L'univocità del nickname deve essere garantita dal server in fase di accettazione del giocatore.
+[DONE]
+- È necessario gestire sia il caso in cui i giocatori escano dalla partita, sia il caso in cui cada la connessione
+  di rete. In entrambi i casi la partita dovrà terminare (anche se in fase di avvio) e tutti i giocatori verranno
+  notificati di questo evento.
+
+-chat?

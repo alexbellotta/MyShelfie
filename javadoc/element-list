@@ -1,0 +1,10 @@
+it.polimi.ingsw
+it.polimi.ingsw.CommunicationProtocol
+it.polimi.ingsw.CommunicationProtocol.LoginMessage
+it.polimi.ingsw.CommunicationProtocol.MoveMessage
+it.polimi.ingsw.Controller
+it.polimi.ingsw.DTO
+it.polimi.ingsw.Model
+it.polimi.ingsw.Network
+it.polimi.ingsw.Util
+it.polimi.ingsw.View
